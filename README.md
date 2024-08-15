@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Drew Millane—welcome to my GitHub page! Here, you'll find a collection of projects I've worked on, from class assignments to my ongoing research with professors on spatial machine learning applications.
+I'm Drew Millane—welcome to my GitHub page! Here, you'll find a collection of projects I've worked on, from class assignments to my ongoing research with my advisor on spatial machine learning applications.
 
 :computer: I'm also excited to share two new websites I've created: my [Portfolio](https://amillane.github.io/)  and my blog, [Data Trailblazing](https://amillane.github.io/DataTrailblazing/). These sites showcase my work and serve as platforms for learning and discovery.
 
